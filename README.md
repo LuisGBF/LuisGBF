@@ -48,19 +48,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LuisGBF&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LuisGBF&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br"/> 
 </p>
 
-<br/>
 <br/>
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="" alt="Imagem">
+  <img align="center" src="https://github.com/user-attachments/assets/eb9b772b-2825-431e-aeb1-87c26c995e8a" alt="Imagem">
 </p>
 
 
