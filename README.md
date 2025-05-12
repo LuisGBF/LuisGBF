@@ -1,8 +1,6 @@
 ## 🐧 Luis
 I do it for fun.
 
----
-
 ### 🤖 Linguagens e tecnologias
 <img 
     align="left" 
