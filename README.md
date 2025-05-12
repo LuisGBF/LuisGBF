@@ -46,7 +46,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/eb9b772b-2825-431e-aeb1-87c26c995e8a" alt="Imagem">
+  <img align="center" src="https://github.com/user-attachments/assets/91519e07-b15e-466b-bd38-076e907db143" alt="Imagem">
 </p>
 
 
