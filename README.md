@@ -1,5 +1,5 @@
 ## 🐧 Luis
-I do it for fun.
+I do for fun.
 
 ### 🤖 Linguagens e tecnologias.
 <img 
