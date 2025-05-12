@@ -2,6 +2,8 @@
 I do it for fun.
 
 ### 🤖 Linguagens e tecnologias
+<p align="left">
+  <img align="center" src="https://github.com/user-attachments/assets/1ad206b0-6cbe-4cc8-94e2-b82b1a287de1" alt="Gif">
 <img 
     align="left" 
     alt="HTML"
