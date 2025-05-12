@@ -1,5 +1,5 @@
 ## 🐧 Luis
-I do it for fun because I love it.
+I do it for fun.
 
 ---
 
