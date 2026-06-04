@@ -61,8 +61,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 <br/>
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="" alt="Gif">
+<!--<p align="left">
+  <img align="center" src="" alt="Gif">--!>
 
 <!--
 **LuisGBF/LuisGBF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
