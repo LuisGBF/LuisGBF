@@ -1,15 +1,17 @@
+<div align="center">
+
 ## 🐧 Luis
 I do for fun.
 
 ### 🤖 Linguagens e tecnologias.
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -17,21 +19,21 @@ I do for fun.
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -39,7 +41,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Dart" 
     title="Dart"
     width="30px" 
@@ -47,7 +49,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Nodejs" 
     title="Nodejs"
     width="30px" 
@@ -59,7 +61,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 <br/>
 
 <br/>
-
+</div>
 <!-- GIF -->
 <!--<p align="left">
   <img align="center" src="" alt="Gif">--!>
